@@ -13,7 +13,6 @@ A lightweight React (Vite) application that lets you browse popular movies from 
 | **Favourites**                | Stores liked movies in `localStorage`, persists across page reloads, and highlights them in the UI.           |
 | **Global State with Context** | Wraps the whole app in a `MoviesProvider` so any component can read / write favourites without prop-drilling. |
 | **Client-side Routing**       | Uses `react-router-dom@7` for Home, Details, and Favourites pages.                                            |
-|_______________________________|_______________________________________________________________________________________________________________|
 
 ## 🛠️ Concepts Practised
 
